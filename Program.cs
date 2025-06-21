@@ -30,6 +30,8 @@ using LogicaComCSharp;
 
 // FaccatEx6_3.Main(args);
 
+// FaccatEx6_4.Main(args);
+
 
 // Manzano Páginas 25-26
 
