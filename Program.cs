@@ -42,6 +42,16 @@ using LogicaComCSharp;
 
 // FaccatEx8.Main(args);
 
+// FaccatEx9.Main(args);
+
+// FaccatEx10.Main(args);
+
+// FaccatEx11.Main(args);
+
+// FaccatEx12.Main(args);
+
+// FaccatEx13.Main(args);
+
 
 // Manzano Páginas 25-26
 
