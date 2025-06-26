@@ -2,6 +2,8 @@
 using ExerciciosLogica;
 using ExerciciosLogica.Exercicíos;
 using ExerciciosLogica.Faccat;
+using ExerciciosLogica.Manzano.Pagina50;
+using ExerciciosLogica.Manzano.Pagina66;
 using LogicaComCSharp;
 
 
@@ -52,6 +54,14 @@ using LogicaComCSharp;
 
 // FaccatEx13.Main(args);
 
+// FaccatEx14.Main(args);
+
+// FaccatEx15.Main(args);
+
+// FaccatEx16.Main(args);
+
+// FaccatEx17.Main(args);
+
 
 // Manzano Páginas 25-26
 
@@ -61,6 +71,16 @@ using LogicaComCSharp;
 // ManzanoPagina25Ex7B.Main(args);
 
 // ManzanoPagina25Ex7C.Main(args);
+
+
+// Manzano Página 50
+
+
+// ManzanoPagina50Ex1A.Main(args);
+
+// ManzanoPagina50Ex1B.Main(args);
+
+// ManzanoPagina50Ex1C.Main(args);
 
 
 // Manzano Página 66
@@ -77,6 +97,16 @@ using LogicaComCSharp;
 // ManzanoPagina66Ex1E.Main(args);
 
 // ManzanoPagina66Ex1F.Main(args);
+
+// ManzanoPagina66Ex1G.Main(args);
+
+// ManzanoPagina66Ex1H.Main(args);
+
+// ManzanoPagina66Ex1I.Main(args);
+
+// ManzanoPagina66Ex1J.Main(args);
+
+// ManzanoPagina66Ex1K.Main(args);
 
 
 // Exercícios
