@@ -82,6 +82,20 @@ using LogicaComCSharp;
 
 // ManzanoPagina50Ex1C.Main(args);
 
+// ManzanoPagina50Ex1D.Main(args);
+
+// ManzanoPagina50Ex1E.Main(args);
+
+// ManzanoPagina50Ex1F.Main(args);
+
+// ManzanoPagina50Ex1G.Main(args);
+
+// ManzanoPagina50Ex1H.Main(args);
+
+// ManzanoPagina50Ex1I.Main(args);
+
+// ManzanoPagina50Ex1J.Main(args);
+
 
 // Manzano Página 66
 
